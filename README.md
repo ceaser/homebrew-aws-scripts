@@ -13,7 +13,7 @@ A centralized repository for brews for Ceaser.
 Run the following in your command-line:
 
 ```sh
-$ brew tap homebrew/homebrew-ceaser
+$ brew tap ceaser/aws-scripts
 ```
 ## License
 
