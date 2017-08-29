@@ -2,8 +2,9 @@
 class AwsScripts < Formula
   desc "Misc scripts for working with AWS"
   homepage "https://github.com/ceaser/aws-scripts/"
-  url "https://github.com/ceaser/aws-scripts/releases/download/v1.1/aws-scripts-1.1.tar.gz"
-  sha256 "bde3e246485aadea3a0639ac338763ac0a369b90a6f8584bc64d69ba0e8015d8"
+  url "https://github.com/ceaser/aws-scripts/archive/v1.1.tar.gz"
+  sha256 "72db91ccb01fc2eeb65c27aae005b423b01bc8c2a007a2962b16df84b3d1ab25"
+  revision 2
 
   depends_on "jq" => :run
   depends_on "netcat" => :run
